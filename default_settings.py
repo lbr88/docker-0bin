@@ -62,12 +62,6 @@ REFRESH_COUNTER = 60 * 1
 
 # Names/links to insert in the menu bar.
 # Any link with "mailto:" will be escaped to prevent spam
-#MENU = (
-#    ('Home', '/'), # internal link. First link will be highlited
-#    ('Download 0bin', 'https://github.com/sametmax/0bin'), # external link
-#    ('Faq', '/faq/'), # faq
-#    ('Contact', 'mailto:lrasmussen@aio-it.dk') # email
-#)
 MENU = (
     ('Home', '/'), # internal link. First link will be highlited
     ('Download 0bin', 'https://github.com/sametmax/0bin'), # external link
